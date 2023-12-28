@@ -1,5 +1,5 @@
-##NAME:Pavithra.S
-##Register number:212223230147
+## NAME:Pavithra.S
+## Register number:212223230147
 
 # Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 

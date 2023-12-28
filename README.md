@@ -84,7 +84,7 @@ Logic symbol & Truthtable
 ### TIMING DIAGRAM
 ## Half adder
 ![image](https://github.com/pavithraselvaraj30/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149366880/9da5e25f-4279-40d2-8927-23e518c75d8e)
-Full adder
+## Full adder
 ![image](https://github.com/pavithraselvaraj30/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149366880/293e23cf-c02f-4dc1-98ba-eb7b4026ab6e)
 
 
